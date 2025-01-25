@@ -10,6 +10,10 @@ class User(BaseModel):
 
 users_db = []
 
+@app.get("/")
+def read_root():
+    return {"message": "Hello, World!"}
+
 @app.post("/users/")
 def create_user(user: User):
     if user.username in [u["username"] for u in users_db]:
