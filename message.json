@@ -1,7 +1,20 @@
 {
   "011": {
     "show": true,
-    "message": "It will be on the 11th of November",
+    "message": "Please go to the following link do father section selection related tasks",
+    "startFrom": "2025-01-26T01:50:00Z",
+    "link": "https://ucam.uiu.ac.bd/?ref=ucamCloud_A_A_M"
+  },
+  "021": {
+    "show": true,
+    "message": "Please go to the following link do father section selection related tasks",
+    "startFrom": "2025-01-26T01:50:00Z",
+    "link": "https://ucam.uiu.ac.bd/?ref=ucamCloud_A_A_M"
+  },
+  "015": {
+    "show": true,
+    "message": "Please go to the following link do father section selection related tasks",
+    "startFrom": "2025-01-26T01:50:00Z",
     "link": "https://ucam.uiu.ac.bd/?ref=ucamCloud_A_A_M"
   }
 }
