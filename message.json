@@ -1,9 +1,9 @@
 {
   "011": {
     "show": true,
-    "message": "You will be able to work on section selection from UCAM Cloud from 29th January, 4:00 PM",
-    "banglaMessage": "২৯ জানুয়ারি, বিকাল ৪টা থেকে UCAM Cloud এ সেকশন সিলেকশনের কাজ করতে পারবেন",
-    "startFrom": "2025-01-27T16:00:00+06:00",
+    "message": "You will be able to work on section selection from UCAM Cloud from 29th January, 4:30 PM",
+    "banglaMessage": "২৯ জানুয়ারি, বিকাল 04:30 থেকে UCAM Cloud এ সেকশন সিলেকশনের কাজ করতে পারবেন",
+    "startFrom": "2025-01-27T16:30:00+06:00",
     "link": "https://ucamcloud.uiu.ac.bd/?ref=ucamCloud_A_A_M"
   },
   "021": {
@@ -15,9 +15,9 @@
   },
   "015": {
     "show": true,
-    "message": "You will be able to work on section selection from UCAM Cloud from 29th January, 4:00 PM",
-    "banglaMessage": "২৯ জানুয়ারি, বিকাল ৪টা থেকে UCAM Cloud এ সেকশন সিলেকশনের কাজ করতে পারবেন",
-    "startFrom": "2025-01-27T16:00:00+06:00",
+    "message": "You will be able to work on section selection from UCAM Cloud from 29th January, 4:30 PM",
+    "banglaMessage": "২৯ জানুয়ারি, বিকাল 04:30 থেকে UCAM Cloud এ সেকশন সিলেকশনের কাজ করতে পারবেন",
+    "startFrom": "2025-01-27T16:30:00+06:00",
     "link": "https://ucam.uiu.ac.bd/?ref=ucamCloud_A_A_M"
   },
   "111": {
